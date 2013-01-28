@@ -1,2 +1,0 @@
-<meta http-equiv="X-UA-Compatible" content="IE=5, IE=6, IE=7, IE=8, IE=9, IE=10" >
-<noscript><center><p>The Verve SSL plugin requires Javascript to be enabled, to learn how to enable Javascript consult your browser documentation.  To login to Wordpress bypassing this plugin and not using SSL login below.  <B>Please note your login will not be secure<b>.</center></noscript>
